@@ -7,6 +7,7 @@ Contributions are welcomed and use is encouraged to any of your projects!
 
 Explanations are Spanish in order to make an easier communication to possible users, but any question could be asked in English, Spanish, French, Portuguese, Galician, Catalan and Italian.
 
+.
 
 SCRIPTS
 
@@ -15,7 +16,7 @@ SCRIPTS
 Este script importa entidades del catastro de un municipio y las convirte en entidades utiles para el analisis morfologico
 
 
-2.py
+2_ADJACENCIES_PARTY-WALLS.py
 Este script calcula las adyacencias de parcelas y edificios, obteniendo de esta manera los linderos y medianeras respectivamente
 
 
