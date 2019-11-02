@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        2
+# Name:        2_ADJACENCIES_PARTY-WALLS.py
 # Purpose:     Este script calcula las adyacencias de parcelas y edificios,
 #               obteniendo de esta manera los linderos y medianeras respectivamente
 #
