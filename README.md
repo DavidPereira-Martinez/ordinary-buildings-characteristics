@@ -17,10 +17,12 @@ Este script importa entidades del catastro de un municipio y las convirte en ent
 
 
 2_ADJACENCIES_PARTY-WALLS.py
+
 Este script calcula las adyacencias de parcelas y edificios, obteniendo de esta manera los linderos y medianeras respectivamente
 
 
-3.py
+3_ROOMS_STAIRS_GRAPHS.py
+
 Este script calcula:
   1) Una estimacion de cuartos equivalentes para edifcios corrientes
   2) Si es un edificio unifamiliar o una estimacion de la division
