@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
-# Name:        1
+# Name:        1_FOOTPRINTS.py
 # Purpose:      Este script importa entidades del catastro de un municipio y las
-#               convirte en entidades utiles para el analisis morfologico
+#               convierte en entidades utiles para el analisis morfologico
 #
 # Author:      David Pereira-Martinez (david.pereira@udc.es)
 #
