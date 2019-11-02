@@ -8,7 +8,8 @@ Explanations are Spanish in order to make an easier communication to possible us
 
 SCRIPTS
 
-1.py
+1_FOOTPRINTS.py
+
 Este script importa entidades del catastro de un municipio y las convirte en entidades utiles para el analisis morfologico
 
 2.py
