@@ -27,4 +27,11 @@ Este script calcula:
   1) Una estimacion de cuartos equivalentes para edifcios corrientes
   2) Si es un edificio unifamiliar o una estimacion de la division
       de 1 y 2 apartamentos, con la posicion del nucleo vertical
+      
+
+
+ARCHIVOS AUXILIARES
+
+_ALTURAS.dbf
+Conversor de alturas entre denominación de catastro e formato numérico
 
