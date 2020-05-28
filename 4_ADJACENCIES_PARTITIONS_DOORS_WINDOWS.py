@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        4
 # Purpose:     Este script agrupa espacios interiores en apartamentos y edificios,
-#               dibuja grafos, da espesores de muros y dibuja ventanas y puertas
+#               da espesores de muros y dibuja ventanas y puertas
 #
 #
 # Author:      David Pereira-Martinez (david.pereira@udc.es)
